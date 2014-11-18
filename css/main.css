@@ -1,0 +1,15 @@
+/**To add custom fonts to document: "font-family: 'Open Sans', sans-serif;"**/
+
+body{
+	font-family: 'Open Sans', sans-serif;		
+}
+
+header{
+	height: 450px;
+	background: #ccc;
+}
+
+footer{
+	height: 450px;
+	background: #ccc;
+}
